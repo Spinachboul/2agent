@@ -13,10 +13,10 @@ class AzureService:
         
         print("Azure service endpoint:", repr(cfg.azure_openai_endpoint))
         # assign the values manually
-        cfg.azure_openai_endpoint = "https://aimlopenai.openai.azure.com"
-        cfg.azure_openai_api_key = "5ymhT4lXzFQPllENPKPzCoJAGvE6lUYa0J3Sz363HN0TMym1WNB2JQQJ99BLACYeBjFXJ3w3AAABACOGkSuA"
-        cfg.azure_openai_api_version = "2025-01-01-preview"
-        cfg.azure_openai_deployment = "gpt-4o"
+        cfg.azure_openai_endpoint = 
+        cfg.azure_openai_api_key = 
+        cfg.azure_openai_api_version = 
+        cfg.azure_openai_deployment = 
         self.cfg = cfg
         # print(
         # "Azure endpoint:",
